@@ -1,4 +1,4 @@
 MoonlightSocial
 ===============
 
-Moonlight Social iOS application.
+iOS application for the Austin band, Moonlight Social.
